@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @savvyconnell
-- 👀 I’m interested in enhancing my programming skills.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in enhancing my skill set to ultimately land a job in big tech.
+- 🌱 I’m currently learning Python and SQL.
 - 💞️ I’m looking to collaborate on anything that will help me gain valuable experience.
 - 📫 Mention me. Thank you.
 
